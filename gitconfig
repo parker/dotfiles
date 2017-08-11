@@ -1,9 +1,3 @@
-[user]
-	name = Parker Seidel
-	email = parker.seidel@gmail.com
-[github]
-	user = parker
-	token = d950b7f7a781476fb09021bc9be1ad94
 [alias]
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 	ls-new = ls-files -o --exclude-per-directory=.gitignore
